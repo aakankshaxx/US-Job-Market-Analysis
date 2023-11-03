@@ -1,1 +1,3 @@
 # US-Job-Market-Analysis
+
+The process of job analysis involves the analyst describing the duties of the incumbent, then the nature and conditions of work, and finally some basic qualifications. After this, the job analyst has completed a form called a job psychograph, which displays the mental requirements of the job.[2] The measure of a sound job analysis is a valid task list. This list contains the functional or duty areas of a position, the related tasks, and the basic training recommendations. Subject matter experts (incumbents) and supervisors for the position being analyzed need to validate this final list in order to validate the job analysis
